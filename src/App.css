@@ -1,0 +1,50 @@
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-header {
+     background-color: blue;
+  }
+
+#svg:hover {
+    box-shadow: 0 8px 16px 0 rgba(66, 66, 74, 0.2);
+    color: cornflowerblue;
+
+}
+
+
+.box {
+    display: flex;
+    color: darkgray;
+}
+.card-text {
+    width: 50%;
+}
+
+
+
+
+h4{
+    color: cornflowerblue;
+}
+
+.h5 {
+    font-weight: bolder;
+}
+
+.bg-primary {
+    font-weight: bolder;
+}
+
+
+#ll {
+    text-align: center;
+    margin: 0 17px;
+}
+
+#ll:hover {
+    box-shadow: 0 8px 16px 0 rgba(66, 66, 74, 0.2);
+    color: cornflowerblue;
+}
+
+
